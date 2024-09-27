@@ -71,7 +71,7 @@ export const router = createBrowserRouter([
       {
         path: "/guides/:_id",
         element: <GuidesDetails></GuidesDetails>,
-        loader: ({ params }) => fetch(`http://localhost:5000/guides/${params._id}`)
+        loader: ({ params }) => fetch(`https://tourist-guide-server-navy.vercel.app/guides/${params._id}`)
       }
     ],
   },
@@ -134,7 +134,7 @@ export const router = createBrowserRouter([
       {
         path: "updatepackage/:id",
         element: <UpdatePackage></UpdatePackage>,
-        loader: ({ params }) => fetch(`http://localhost:5000/package/${params.id}`)
+        loader: ({ params }) => fetch(`https://tourist-guide-server-navy.vercel.app/package/${params.id}`)
       },
       {
         path: "myprofile",
