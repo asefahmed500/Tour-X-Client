@@ -1,0 +1,47 @@
+[
+    {
+        "_id": "1",
+        "name": "John Doe",
+        "review": "The tour was absolutely fantastic! The guide was knowledgeable and friendly. I learned so much about the history of the city.",
+        "rating": 5,
+        "date": "2024-09-01",
+        "image": "https://example.com/reviewers/john.jpg",
+        "tour": "Historical City Tour"
+    },
+    {
+        "_id": "2",
+        "name": "Jane Smith",
+        "review": "Amazing experience! The nature trail was breathtaking. The guide was very helpful and knew all the best spots.",
+        "rating": 4.5,
+        "date": "2024-09-05",
+        "image": "https://example.com/reviewers/jane.jpg",
+        "tour": "Nature Trail Adventure"
+    },
+    {
+        "_id": "3",
+        "name": "Samuel Lee",
+        "review": "The guide was very patient and answered all of our questions. The museum tour was insightful, but I wish it lasted longer.",
+        "rating": 4,
+        "date": "2024-08-29",
+        "image": "https://example.com/reviewers/samuel.jpg",
+        "tour": "Museum Exploration"
+    },
+    {
+        "_id": "4",
+        "name": "Emily Johnson",
+        "review": "A fun and educational experience! The guide made the hike entertaining and shared some amazing facts along the way.",
+        "rating": 5,
+        "date": "2024-09-12",
+        "image": "https://example.com/reviewers/emily.jpg",
+        "tour": "Mountain Hike"
+    },
+    {
+        "_id": "5",
+        "name": "Michael Brown",
+        "review": "The walking tour was enjoyable, but it felt a bit rushed. I would have liked more time at each stop.",
+        "rating": 3.5,
+        "date": "2024-09-10",
+        "image": "https://example.com/reviewers/michael.jpg",
+        "tour": "Walking City Tour"
+    }
+]

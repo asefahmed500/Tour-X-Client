@@ -1,0 +1,159 @@
+[
+    {
+      "id": 1,
+      "name": "Rahim Khan",
+      "profilePicture": "https://example.com/images/community1.jpg",
+      "role": "Traveler",
+      "email": "rahim.khan@example.com",
+      "posts": [
+        {
+          "postId": 101,
+          "title": "Exploring the Hidden Gems of Sylhet",
+          "content": "Just came back from an amazing trip to Sylhet! I found some lesser-known spots that are breathtaking. The natural beauty is beyond words.",
+          "datePosted": "2024-08-12"
+        },
+        {
+          "postId": 102,
+          "title": "Local Cuisine in Chittagong",
+          "content": "Tried some amazing dishes in Chittagong. Highly recommend trying 'Mezban beef'.",
+          "datePosted": "2024-08-19"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ayesha Siddique",
+      "profilePicture": "https://example.com/images/community2.jpg",
+      "role": "Travel Blogger",
+      "email": "ayesha.siddique@example.com",
+      "posts": [
+        {
+          "postId": 103,
+          "title": "Cultural Heritage of Old Dhaka",
+          "content": "Old Dhaka is a living museum. From the Ahsan Manzil to the Lalbagh Fort, every corner speaks history.",
+          "datePosted": "2024-09-01"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Tanvir Ahmed",
+      "profilePicture": "https://example.com/images/community3.jpg",
+      "role": "Tour Guide",
+      "email": "tanvir.ahmed@example.com",
+      "posts": [
+        {
+          "postId": 104,
+          "title": "Top Attractions in Cox's Bazar",
+          "content": "As a local guide, I recommend visiting Himchari and Inani Beach. Don’t miss the sunset at the main beach!",
+          "datePosted": "2024-07-22"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Fatima Noor",
+      "profilePicture": "https://example.com/images/community4.jpg",
+      "role": "Photographer",
+      "email": "fatima.noor@example.com",
+      "posts": [
+        {
+          "postId": 105,
+          "title": "Capturing the Beauty of Bandarban",
+          "content": "I recently visited Bandarban and took some breathtaking photos of the hills and waterfalls. The landscape is stunning!",
+          "datePosted": "2024-08-25"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Asif Islam",
+      "profilePicture": "https://example.com/images/community5.jpg",
+      "role": "Traveler",
+      "email": "asif.islam@example.com",
+      "posts": [
+        {
+          "postId": 106,
+          "title": "Best Street Food in Dhaka",
+          "content": "If you're visiting Dhaka, don't miss out on street food! Fuchka, chotpoti, and jilapi are must-tries.",
+          "datePosted": "2024-09-03"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Nadia Rahman",
+      "profilePicture": "https://example.com/images/community6.jpg",
+      "role": "Travel Enthusiast",
+      "email": "nadia.rahman@example.com",
+      "posts": [
+        {
+          "postId": 107,
+          "title": "A Day Trip to Srimangal",
+          "content": "Srimangal is perfect for tea lovers! I spent a day visiting the tea gardens and learning about tea-making.",
+          "datePosted": "2024-07-29"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Hassan Ali",
+      "profilePicture": "https://example.com/images/community7.jpg",
+      "role": "Adventure Seeker",
+      "email": "hassan.ali@example.com",
+      "posts": [
+        {
+          "postId": 108,
+          "title": "Trekking in Sajek Valley",
+          "content": "Sajek Valley is a paradise for trekkers. The view from the top is absolutely worth the hike!",
+          "datePosted": "2024-08-08"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Zara Hossain",
+      "profilePicture": "https://example.com/images/community8.jpg",
+      "role": "Tour Guide",
+      "email": "zara.hossain@example.com",
+      "posts": [
+        {
+          "postId": 109,
+          "title": "Top 5 Landmarks in Dhaka",
+          "content": "If you're visiting Dhaka, make sure to visit Lalbagh Fort, Ahsan Manzil, and the National Parliament House.",
+          "datePosted": "2024-08-16"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Rafiq Chowdhury",
+      "profilePicture": "https://example.com/images/community9.jpg",
+      "role": "Cultural Enthusiast",
+      "email": "rafiq.chowdhury@example.com",
+      "posts": [
+        {
+          "postId": 110,
+          "title": "Festivals in Bangladesh",
+          "content": "Durga Puja and Pohela Boishakh are two of the biggest celebrations in Bangladesh. The energy during these festivals is unmatched!",
+          "datePosted": "2024-09-10"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Mehedi Hasan",
+      "profilePicture": "https://example.com/images/community10.jpg",
+      "role": "Travel Photographer",
+      "email": "mehedi.hasan@example.com",
+      "posts": [
+        {
+          "postId": 111,
+          "title": "Wildlife Photography in Sundarbans",
+          "content": "I was lucky to capture some rare wildlife moments during my trip to Sundarbans. Highly recommend visiting for nature lovers!",
+          "datePosted": "2024-07-15"
+        }
+      ]
+    }
+  ]
+  

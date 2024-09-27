@@ -1,0 +1,314 @@
+[
+  {
+    "_id": "1",
+    "name": "Sundarbans Adventure",
+    "tourType": "HIKING",
+    "description": "Explore the world's largest mangrove forest on a guided hike.",
+    "price": 1200.0,
+    "image": "https://example.com/sundarbans-adventure.jpg"
+  },
+  {
+    "_id": "2",
+    "name": "Chittagong Hill Tracts Trail",
+    "tourType": "HIKING",
+    "description": "A thrilling hike through the rugged hills of Chittagong.",
+    "price": 1500.0,
+    "image": "https://example.com/chittagong-hill-tracts.jpg"
+  },
+  {
+    "_id": "3",
+    "name": "Lawachara Forest Explorer",
+    "tourType": "HIKING",
+    "description": "A scenic hike through the Lawachara National Park.",
+    "price": 1100.0,
+    "image": "https://example.com/lawachara-forest.jpg"
+  },
+  {
+    "_id": "4",
+    "name": "Bandarban Trekking Adventure",
+    "tourType": "HIKING",
+    "description": "Trek through the hills and waterfalls of Bandarban.",
+    "price": 1700.0,
+    "image": "https://example.com/bandarban-trek.jpg"
+  },
+  {
+    "_id": "5",
+    "name": "Srimangal Tea Garden Walk",
+    "tourType": "WALKING",
+    "description": "A relaxing walk through the beautiful tea gardens of Srimangal.",
+    "price": 900.0,
+    "image": "https://example.com/srimangal-tea-garden.jpg"
+  },
+  {
+    "_id": "6",
+    "name": "Cox's Bazar Beach Walk",
+    "tourType": "WALKING",
+    "description": "Enjoy a serene walk along the longest sea beach in the world.",
+    "price": 950.0,
+    "image": "https://example.com/coxs-bazar-beach.jpg"
+  },
+  {
+    "_id": "7",
+    "name": "Bangladesh Cricket Tour",
+    "tourType": "SPORTS",
+    "description": "Experience the thrill of cricket matches in Bangladesh.",
+    "price": 2000.0,
+    "image": "https://example.com/cricket-tour.jpg"
+  },
+  {
+    "_id": "8",
+    "name": "Padma River Boating Adventure",
+    "tourType": "SPORTS",
+    "description": "An exciting boat ride on the famous Padma River.",
+    "price": 1800.0,
+    "image": "https://example.com/padma-boating.jpg"
+  },
+  {
+    "_id": "9",
+    "name": "Sylhet River Cruise",
+    "tourType": "OFFERED",
+    "description": "Enjoy a scenic cruise along the rivers of Sylhet.",
+    "price": 1400.0,
+    "image": "https://example.com/sylhet-cruise.jpg"
+  },
+  {
+    "_id": "10",
+    "name": "Sajek Valley Tour",
+    "tourType": "OFFERED",
+    "description": "Visit the stunning Sajek Valley with its mesmerizing views.",
+    "price": 1600.0,
+    "image": "https://example.com/sajek-valley.jpg"
+  },
+  {
+    "_id": "11",
+    "name": "Kuakata Sunrise and Sunset Tour",
+    "tourType": "OFFERED",
+    "description": "Experience both sunrise and sunset on the same beach at Kuakata.",
+    "price": 1300.0,
+    "image": "https://example.com/kuakata.jpg"
+  },
+  {
+    "_id": "12",
+    "name": "Sonargaon Heritage Tour",
+    "tourType": "OFFERED",
+    "description": "Explore the historic Sonargaon and its cultural heritage.",
+    "price": 1200.0,
+    "image": "https://example.com/sonargaon.jpg"
+  },
+  {
+    "_id": "13",
+    "name": "St. Martin's Island Getaway",
+    "tourType": "OFFERED",
+    "description": "Relax on the serene beaches of St. Martin's Island.",
+    "price": 1400.0,
+    "image": "https://example.com/st-martins.jpg"
+  },
+  {
+    "_id": "14",
+    "name": "Sajek Valley Hiking",
+    "tourType": "HIKING",
+    "description": "Hike through the breathtaking hills and valleys of Sajek.",
+    "price": 1500.0,
+    "image": "https://example.com/sajek-hiking.jpg"
+  },
+  {
+    "_id": "15",
+    "name": "Ratargul Swamp Forest Tour",
+    "tourType": "WILDLIFE",
+    "description": "Explore the Ratargul Swamp Forest, a unique freshwater swamp.",
+    "price": 1800.0,
+    "image": "https://example.com/ratargul-swamp.jpg"
+  },
+  {
+    "_id": "16",
+    "name": "Jaflong Scenic Tour",
+    "tourType": "WALKING",
+    "description": "A walk through the beautiful stone and river landscape of Jaflong.",
+    "price": 1000.0,
+    "image": "https://example.com/jaflong-scenic.jpg"
+  },
+  {
+    "_id": "17",
+    "name": "Boga Lake Expedition",
+    "tourType": "HIKING",
+    "description": "Hike to the beautiful Boga Lake in Bandarban.",
+    "price": 2000.0,
+    "image": "https://example.com/boga-lake.jpg"
+  },
+  {
+    "_id": "18",
+    "name": "Dhaka City Tour",
+    "tourType": "WALKING",
+    "description": "Discover the historical landmarks of Dhaka on foot.",
+    "price": 1200.0,
+    "image": "https://example.com/dhaka-city.jpg"
+  },
+  {
+    "_id": "19",
+    "name": "Lalakhal Boat Ride",
+    "tourType": "OFFERED",
+    "description": "Enjoy a boat ride on the crystal-clear waters of Lalakhal in Sylhet.",
+    "price": 1600.0,
+    "image": "https://example.com/lalakhal.jpg"
+  },
+  {
+    "_id": "20",
+    "name": "Rangamati Cultural Tour",
+    "tourType": "OFFERED",
+    "description": "Explore the diverse cultures of Rangamati with a boat tour.",
+    "price": 1400.0,
+    "image": "https://example.com/rangamati-cultural.jpg"
+  },
+  {
+    "_id": "21",
+    "name": "Ahsan Manzil Walk",
+    "tourType": "WALKING",
+    "description": "Visit Ahsan Manzil, a historical palace in Old Dhaka.",
+    "price": 900.0,
+    "image": "https://example.com/ahsan-manzil.jpg"
+  },
+  {
+    "_id": "22",
+    "name": "Paharpur Buddhist Monastery Tour",
+    "tourType": "WALKING",
+    "description": "Explore the ruins of the ancient Paharpur Monastery.",
+    "price": 1000.0,
+    "image": "https://example.com/paharpur-monastery.jpg"
+  },
+  {
+    "_id": "23",
+    "name": "Bichanakandi Waterfall Trek",
+    "tourType": "HIKING",
+    "description": "Trek to the stunning Bichanakandi Waterfall.",
+    "price": 1500.0,
+    "image": "https://example.com/bichanakandi.jpg"
+  },
+  {
+    "_id": "24",
+    "name": "Tanguar Haor Boat Ride",
+    "tourType": "OFFERED",
+    "description": "A boat tour of the mesmerizing Tanguar Haor wetland ecosystem.",
+    "price": 1800.0,
+    "image": "https://example.com/tanguar-haor.jpg"
+  },
+  {
+    "_id": "25",
+    "name": "Maheshkhali Island Adventure",
+    "tourType": "OFFERED",
+    "description": "Discover the hidden gems of Maheshkhali Island.",
+    "price": 1400.0,
+    "image": "https://example.com/maheshkhali-island.jpg"
+  },
+  {
+    "_id": "26",
+    "name": "Bangladesh Wildlife Safari",
+    "tourType": "WILDLIFE",
+    "description": "A wildlife safari in Bangladesh's rural and forested areas.",
+    "price": 2400.0,
+    "image": "https://example.com/wildlife-safari.jpg"
+  },
+  {
+    "_id": "27",
+    "name": "Chandranath Temple Trek",
+    "tourType": "HIKING",
+    "description": "Trek to the famous Chandranath Temple in Sitakunda.",
+    "price": 1300.0,
+    "image": "https://example.com/chandranath-temple.jpg"
+  },
+  {
+    "_id": "28",
+    "name": "Dinajpur Rajbari Tour",
+    "tourType": "WALKING",
+    "description": "Explore the historic Dinajpur Rajbari palace and surroundings.",
+    "price": 900.0,
+    "image": "https://example.com/dinajpur-rajbari.jpg"
+  },
+  {
+    "_id": "29",
+    "name": "Foy's Lake Adventure",
+    "tourType": "OFFERED",
+    "description": "Boat rides and adventure activities at Foy's Lake, Chittagong.",
+    "price": 1600.0,
+    "image": "https://example.com/foys-lake.jpg"
+  },
+  {
+    "_id": "30",
+    "name": "Panam City Walk",
+    "tourType": "WALKING",
+    "description": "A walk through the ancient, abandoned city of Panam.",
+    "price": 1100.0,
+    "image": "https://example.com/panam-city.jpg"
+  },
+  {
+    "_id": "31",
+    "name": "Barisal Backwaters Boat Tour",
+    "tourType": "OFFERED",
+    "description": "Explore the serene backwaters of Barisal on a traditional boat.",
+    "price": 1500.0,
+    "image": "https://example.com/barisal-backwaters.jpg"
+  },
+  {
+    "_id": "32",
+    "name": "Ramu Buddha Statue Tour",
+    "tourType": "OFFERED",
+    "description": "Visit the famous Buddha statues and temples in Ramu.",
+    "price": 1000.0,
+    "image": "https://example.com/ramu-statue.jpg"
+  },
+  {
+    "_id": "33",
+    "name": "Kaptai Lake Tour",
+    "tourType": "OFFERED",
+    "description": "Explore the scenic beauty of Kaptai Lake by boat.",
+    "price": 1700.0,
+    "image": "https://example.com/kaptai-lake.jpg"
+  },
+  {
+    "_id": "34",
+    "name": "Madhabkunda Waterfall Trek",
+    "tourType": "HIKING",
+    "description": "Trek to one of the largest waterfalls in Bangladesh.",
+    "price": 1200.0,
+    "image": "https://example.com/madhabkunda-waterfall.jpg"
+  },
+  {
+    "_id": "35",
+    "name": "Bangladesh Art and Crafts Tour",
+    "tourType": "OFFERED",
+    "description": "Discover traditional art and crafts in rural Bangladesh.",
+    "price": 1600.0,
+    "image": "https://example.com/art-crafts-tour.jpg"
+  },
+  {
+    "_id": "37",
+    "name": "Cox's Bazar Air Safari",
+    "tourType": "AIRRIDES",
+    "description": "A thrilling aerial safari over Cox's Bazar beach and the Bay of Bengal.",
+    "price": 4000.0,
+    "image": "https://example.com/coxs-bazar-air-safari.jpg"
+  },
+  {
+    "_id": "38",
+    "name": "Sundarbans Aerial Tour",
+    "tourType": "AIRRIDES",
+    "description": "Fly over the breathtaking Sundarbans mangrove forest.",
+    "price": 4500.0,
+    "image": "https://example.com/sundarbans-aerial-tour.jpg"
+  },
+  {
+    "_id": "39",
+    "name": "Chittagong Hill Tracts Helicopter Ride",
+    "tourType": "AIRRIDES",
+    "description": "Fly over the scenic hills and valleys of Chittagong.",
+    "price": 4200.0,
+    "image": "https://example.com/chittagong-hill-tracts-ride.jpg"
+  },
+  {
+    "_id": "40",
+    "name": "Sajek Valley Air Tour",
+    "tourType": "AIRRIDES",
+    "description": "Witness the beauty of Sajek Valley from the sky.",
+    "price": 3800.0,
+    "image": "https://example.com/sajek-valley-air-tour.jpg"
+  }
+]

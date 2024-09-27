@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "1",
+    "name": "Sundarbans Mangrove ",
+    "tourType": "POPULAR",
+    "description": "Explore the world's largest mangrove forest and spot the Royal Bengal Tiger.",
+    "price": 1200.0,
+    "image": "https://i.ibb.co.com/tX9rF2H/1s.jpg"
+  },
+  {
+    "_id": "2",
+    "name": "Cox's Bazar Beach Retreat",
+    "tourType": "POPULAR",
+    "description": "Relax on the longest natural sea beach in the world with luxurious amenities.",
+    "price": 2000.0,
+    "image": "https://i.ibb.co.com/x2GghdM/2s.jpg"
+  },
+  {
+    "_id": "3",
+    "name": "Srimangal Tea Garden Tour",
+    "tourType": "POPULAR",
+    "description": "Take a guided tour through the lush tea gardens of Srimangal and enjoy traditional tea tasting.",
+    "price": 800.0,
+    "image": "https://i.ibb.co.com/sgLjSVh/3s.jpg"
+  },
+  {
+    "_id": "4",
+    "name": "Sylhet Waterfall Expedition",
+    "tourType": "POPULAR",
+    "description": "Discover the scenic waterfalls of Sylhet and experience the natural beauty of Ratargul Swamp Forest.",
+    "price": 1500.0,
+    "image": "https://i.ibb.co.com/M68qP82/4s.jpg"
+  },
+  {
+    "_id": "5",
+    "name": "St. Martin's Island Coral Cruise",
+    "tourType": "POPULAR",
+    "description": "Enjoy a scenic cruise to the coral island of St. Martin's and experience its crystal-clear waters.",
+    "price": 2500.0,
+    "image": "https://i.ibb.co.com/sVJHFwk/5s.jpg"
+  }
+  ,
+  {
+    "_id": "6",
+    "name": "Bandarban Hill Tracts ",
+    "tourType": "POPULAR",
+    "description": "Embark on an exhilarating journey through the scenic hills of Bandarban, exploring tribal culture .",
+    "price": 1800.0,
+    "image": "https://i.ibb.co.com/KFwzDGj/6s.jpg"
+  }
+]

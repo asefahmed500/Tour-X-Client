@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "A Journey Through the Sundarbans",
+      "author": "Tanvir Ahmed",
+      "datePublished": "2024-08-05",
+      "image": "https://example.com/images/blog1.jpg",
+      "content": "The Sundarbans is a unique mangrove forest and home to the Bengal tiger. Exploring this UNESCO World Heritage Site was an unforgettable experience. The dense forests, serene waterways, and diverse wildlife make it a must-visit destination for nature enthusiasts.",
+      "tags": ["Sundarbans", "Nature", "Wildlife"]
+    },
+    {
+      "id": 2,
+      "title": "Discovering the Rich History of Old Dhaka",
+      "author": "Ayesha Siddique",
+      "datePublished": "2024-08-15",
+      "image": "https://example.com/images/blog2.jpg",
+      "content": "Old Dhaka is a treasure trove of historical landmarks and vibrant culture. From the majestic Lalbagh Fort to the bustling streets filled with traditional markets, Old Dhaka offers a glimpse into the city's rich past and present.",
+      "tags": ["Dhaka", "History", "Culture"]
+    },
+    {
+      "id": 3,
+      "title": "Exploring the Scenic Beauty of Cox's Bazar",
+      "author": "Fatima Noor",
+      "datePublished": "2024-08-20",
+      "image": "https://example.com/images/blog3.jpg",
+      "content": "Cox's Bazar, known for having the longest natural sea beach in the world, is a paradise for beach lovers. The golden sands, gentle waves, and picturesque sunsets make it a perfect getaway for relaxation and adventure.",
+      "tags": ["Cox's Bazar", "Beach", "Travel"]
+    },
+    {
+      "id": 4,
+      "title": "The Vibrant Festivals of Bangladesh",
+      "author": "Rafiq Chowdhury",
+      "datePublished": "2024-09-01",
+      "image": "https://example.com/images/blog4.jpg",
+      "content": "Bangladesh is known for its lively festivals, including Durga Puja and Pohela Boishakh. These celebrations are marked by colorful processions, traditional music, and delicious foods, offering an immersive cultural experience.",
+      "tags": ["Festivals", "Culture", "Events"]
+    },
+    {
+      "id": 5,
+      "title": "Hidden Treasures of Sylhet: A Travel Guide",
+      "author": "Rahim Khan",
+      "datePublished": "2024-09-10",
+      "image": "https://example.com/images/blog5.jpg",
+      "content": "Sylhet is not just about tea gardens. It’s also home to beautiful waterfalls, serene lakes, and lush green hills. This guide will help you discover some of the lesser-known but equally captivating spots in Sylhet.",
+      "tags": ["Sylhet", "Travel", "Nature"]
+    },
+    {
+      "id": 6,
+      "title": "A Food Lover’s Guide to Dhaka",
+      "author": "Mehedi Hasan",
+      "datePublished": "2024-09-12",
+      "image": "https://example.com/images/blog6.jpg",
+      "content": "Dhaka's street food scene is a culinary adventure. From spicy fuchka to sweet jilapi, there are countless flavors to explore. This guide highlights some of the best places to indulge in Dhaka's diverse food offerings.",
+      "tags": ["Dhaka", "Food", "Cuisine"]
+    },
+    {
+      "id": 7,
+      "title": "Adventure Awaits in Bandarban",
+      "author": "Asif Islam",
+      "datePublished": "2024-09-18",
+      "image": "https://example.com/images/blog7.jpg",
+      "content": "Bandarban offers breathtaking views and thrilling treks. From the panoramic vistas of Nilgiri Hills to the serene beauty of the Sangu River, Bandarban is a haven for adventure seekers and nature lovers alike.",
+      "tags": ["Bandarban", "Adventure", "Trekking"]
+    },
+    {
+      "id": 8,
+      "title": "The Allure of Srimangal’s Tea Gardens",
+      "author": "Nadia Rahman",
+      "datePublished": "2024-09-22",
+      "image": "https://example.com/images/blog8.jpg",
+      "content": "Srimangal is famous for its sprawling tea gardens. A visit to these lush plantations not only provides a relaxing experience but also offers insights into the tea production process. It’s a perfect destination for a peaceful retreat.",
+      "tags": ["Srimangal", "Tea", "Relaxation"]
+    },
+    {
+      "id": 9,
+      "title": "Unveiling the Charm of Paharpur",
+      "author": "Zara Hossain",
+      "datePublished": "2024-09-28",
+      "image": "https://example.com/images/blog9.jpg",
+      "content": "Paharpur, home to the ancient Buddhist Vihara, is a significant archaeological site. The ruins here offer a glimpse into the past and showcase the rich heritage of Bangladesh.",
+      "tags": ["Paharpur", "History", "Archaeology"]
+    },
+    {
+      "id": 10,
+      "title": "A Guide to Exploring the Wildlife of the Chittagong Hill Tracts",
+      "author": "Hassan Ali",
+      "datePublished": "2024-09-30",
+      "image": "https://example.com/images/blog10.jpg",
+      "content": "The Chittagong Hill Tracts are home to diverse wildlife and unique ecosystems. This guide explores the various species you can encounter and the best practices for wildlife watching in the region.",
+      "tags": ["Chittagong Hill Tracts", "Wildlife", "Nature"]
+    }
+  ]
+  
