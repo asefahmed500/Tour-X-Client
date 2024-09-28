@@ -24,8 +24,8 @@ const NavBar = () => {
             <li><Link to="/">Home</Link></li>
             <li><Link to="/ourpackages">Our Packages</Link></li>
             <li><Link to="/bookings/:tourType">Bookings</Link></li>
-            <li><Link to="/community">Community</Link></li>
-            <li><Link to="/blogs">Blogs</Link></li>
+           
+         
             <li><Link to="/about">About Us</Link></li>
             <li><Link to="/login">Login</Link></li>
             <li><Link to="/signup">Sign Up</Link></li>

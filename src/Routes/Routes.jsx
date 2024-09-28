@@ -28,6 +28,7 @@ import GuideHome from "../components/Dashboard/GuideHome/GuideHome";
 
 import AddGuide from "../components/Dashboard/AddGuides/AddGuide";
 import AdminRoutes from './../components/AdminRoutes/AdminRoutes';
+import AboutUs from "../components/AboutUs/AboutUs";
 
 export const router = createBrowserRouter([
   {
@@ -51,6 +52,11 @@ export const router = createBrowserRouter([
         element: <Booking />,
       },
       {
+        path: "about",
+        element : <AboutUs></AboutUs>
+
+      },
+      {
         path: "/login",
         element: <Login />,
       },
@@ -71,7 +77,7 @@ export const router = createBrowserRouter([
       {
         path: "/guides/:_id",
         element: <GuidesDetails></GuidesDetails>,
-        loader: ({ params }) => fetch(`https://tourist-guide-server-navy.vercel.app/guides/${params._id}`)
+        loader: ({ params }) => fetch(`https://tour-x-server.onrender.com/guides/${params._id}`)
       }
     ],
   },
@@ -134,7 +140,7 @@ export const router = createBrowserRouter([
       {
         path: "updatepackage/:id",
         element: <UpdatePackage></UpdatePackage>,
-        loader: ({ params }) => fetch(`https://tourist-guide-server-navy.vercel.app/package/${params.id}`)
+        loader: ({ params }) => fetch(`https://tour-x-server.onrender.com/package/${params.id}`)
       },
       {
         path: "myprofile",

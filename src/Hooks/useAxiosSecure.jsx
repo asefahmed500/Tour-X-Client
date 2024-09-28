@@ -4,7 +4,7 @@ import useAuth from "./useAuth";
 
 
 const axiosSecure = axios.create({
-    baseURL: 'https://tourist-guide-server-navy.vercel.app'
+    baseURL: 'https://tour-x-server.onrender.com'
 })
 
 const useAxiosSecure = () => {

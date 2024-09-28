@@ -1,6 +1,6 @@
 import axios from "axios";
 const axiosPublic = axios.create({
-    baseURL: 'https://tourist-guide-server-navy.vercel.app'
+    baseURL: 'https://tour-x-server.onrender.com'
 })
 
 const useAxiosPublic = () => {
